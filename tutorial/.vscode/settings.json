@@ -1,0 +1,8 @@
+{
+  "editor.tabCompletion": "on",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.tabSize": 2,
+  "diffEditor.codeLens": true
+}
